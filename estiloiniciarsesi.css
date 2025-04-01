@@ -1,0 +1,45 @@
+body
+{
+	background: skyblue;
+}
+.textototal
+{
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
+.imageninicio
+{
+	 background: red;
+}
+.texto1
+{
+	font-size: 35px;
+}
+.texto2
+{
+ font-size: 20px;
+ font-family: arial;
+}
+
+.imagen2:hover
+{
+	cursor: pointer;
+}
+input[type=text]
+{
+	border-radius: 8px;
+	padding: 20px;
+	width: 30%;
+	font-size: 15px;
+}
+.boton
+{
+	border-radius: 8px;
+	padding: 18px;
+}
+.boton:hover
+{
+	cursor: pointer;
+	background: lightgrey;
+}
